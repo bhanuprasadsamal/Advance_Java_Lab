@@ -1,0 +1,5 @@
+package com.mycompany.springcore.annotations.componentscan;
+
+public class Customer {
+
+}

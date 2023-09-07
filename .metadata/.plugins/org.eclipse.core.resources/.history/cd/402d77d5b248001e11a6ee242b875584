@@ -1,0 +1,23 @@
+package com.mycompany.springcore.autowiring.annotation.constructor;
+
+public class Country {
+	String countryName;
+
+	Capital capital;//POJO -dependency
+	@Autowired
+	public Country(Capital capital) {
+		super();
+		
+		this.capital = capital;
+	}
+	public String getCountryName() {
+		return countryName;
+	}
+	public void setCountryName(String countryName) {
+		this.countryName = countryName;
+	}
+	public Capital getCapital() {
+		return capital;
+	}
+
+}

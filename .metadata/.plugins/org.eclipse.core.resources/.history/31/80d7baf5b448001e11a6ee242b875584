@@ -1,0 +1,5 @@
+package com.mycompany.springcore.autowiring.annotation.constructor;
+
+public class MainCountry {
+
+}

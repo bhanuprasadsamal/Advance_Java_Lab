@@ -1,0 +1,5 @@
+package com.mycom.controller;
+
+public class LoginController {
+
+}

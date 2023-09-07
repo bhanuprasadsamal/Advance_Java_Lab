@@ -1,0 +1,16 @@
+package com.mycompany.springcore.annotations.componentscan;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.stereotype.Component;
+
+@Component
+public class MainApp {
+	public static void main(String[] args) {
+		ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
+		Scanner scnr=new Scanner(System.in);
+		Customer customer = (Customer) context.getBean("customer");
+		Employee customer = (Employee) context.getBean("employee");
+		employee.showEmpDetails();
+		
+	}
+}

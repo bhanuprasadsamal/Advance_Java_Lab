@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SpringMVC-Login/webContent/WEB-INF/jsp/welcomePage.jsp&apos; to &apos;welcome.jsp&apos;" description="Rename resource &apos;welcomePage.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="webContent/WEB-INF/jsp/welcomePage.jsp" name="welcome.jsp" stamp="1693656084251" updateReferences="true"/>
+</session>

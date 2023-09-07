@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-19">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/BHANU/Downloads/SpringCoreJarFiles/SpringCoreJarFiles/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHANU/Downloads/SpringCoreJarFiles/SpringCoreJarFiles/spring-aop-4.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHANU/Downloads/SpringCoreJarFiles/SpringCoreJarFiles/spring-beans-4.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHANU/Downloads/SpringCoreJarFiles/SpringCoreJarFiles/spring-context-4.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHANU/Downloads/SpringCoreJarFiles/SpringCoreJarFiles/spring-core-4.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHANU/Downloads/SpringCoreJarFiles/SpringCoreJarFiles/spring-expression-4.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHANU/Downloads/SpringCoreJarFiles/SpringCoreJarFiles/spring-jdbc-4.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHANU/Downloads/SpringCoreJarFiles/SpringCoreJarFiles/spring-tx-4.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHANU/Downloads/SpringCoreJarFiles/SpringCoreJarFiles/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHANU/Downloads/SpringCoreJarFiles/SpringCoreJarFiles/aspectjrt-1.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHANU/Downloads/SpringCoreJarFiles/SpringCoreJarFiles/aspectjrt-1.6.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHANU/Downloads/SpringCoreJarFiles/SpringCoreJarFiles/aspectjweaver-1.6.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

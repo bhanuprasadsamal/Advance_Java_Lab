@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1691410683821_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1691410683840_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1693311769610_3" label="Hibernate-InsertEmployee" name="Hibernate-InsertEmployee">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Hibernate-InsertEmployee" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1693389961679_4" label="Hibernate-UpdateEmployee" name="Hibernate-UpdateEmployee">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Hibernate-UpdateEmployee" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1693389995720_5" label="Hibernate-Select-Employee" name="Hibernate-Select-Employee">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Hibernate-Select-Employee" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1693390014345_6" label="Hibernate-DeleteEmployee" name="Hibernate-DeleteEmployee">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Hibernate-DeleteEmployee" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1691410693783_2" label="Window Working Set" name="Aggregate for window 1691410693783"/>
+</workingSetManager>
